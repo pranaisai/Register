@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Idea": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
